@@ -1,0 +1,4 @@
+CREATE TABLE hoge(
+    id INTEGER PRIMARY KEY,
+    name VARCHAR(32)
+);
